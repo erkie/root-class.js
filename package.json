@@ -1,0 +1,21 @@
+{
+  "name": "root-class",
+  "version": "1.0.1",
+  "description": "A really simple class library with inheritance and bound instance methods",
+  "main": "root-class",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "class",
+    "inheritance",
+    "prototype"
+  ],
+  "author": "Erik Rothoff Andersson <erik.rothoff@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erkie/root-class.js.git"
+  }
+}
